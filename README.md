@@ -13,6 +13,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinekb05&layout=compact&hide=shell&theme=dracula" />
 
 <br>
+<br>
 
 ![Snake animation](https://github.com/karolinekb05/karolinekb05/blob/output/github-contribution-grid-snake.svg)
 
