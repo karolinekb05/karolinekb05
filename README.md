@@ -14,8 +14,6 @@
 
 <br>
 
-![Snake animation](https://github.com/karolinekb05/karolinekb05/blob/output/github-contribution-grid-snake.svg)
-
 <br>
 
 ## Contacts
