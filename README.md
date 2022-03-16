@@ -4,7 +4,7 @@
 
 👩‍🎓 Graduated in System Analysis and Development
 
-💼 QA Analyst
+💼 Tester/QA
 
 👩‍💻 Constantly learning
 
