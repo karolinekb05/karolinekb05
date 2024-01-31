@@ -2,9 +2,9 @@
 
 <br>
 
-👩‍🎓 Graduated in System Analysis and Development
+👩‍🎓 Graduated in System Analysis and Development and PostGraduate in Data Engineer
 
-💼 Quality Assurance | QA Engineer
+💼 Data Engineer
 
 👩‍💻 Constantly learning
 
