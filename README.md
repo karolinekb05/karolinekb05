@@ -2,7 +2,7 @@
 
 <br>
 
-👩‍🎓 Graduated in System Analysis and Development and PostGraduate in Data Engineer
+👩‍🎓 PostGraduate in Data Engineer and Graduated in System Analysis and Development
 
 💼 Data Engineer
 
